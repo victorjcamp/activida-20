@@ -1,0 +1,54 @@
+body {
+   
+background-image: url(Diseño-de-videojuegos-img.png);
+  background-position: no-position;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+title{
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+h1{
+ color:white;
+    font-family: 'Bruno Ace SC', cursive;
+    font-style:"text-align: justify;"
+  
+}
+h2{
+ color:white;
+    font-family: 'Bruno Ace SC', cursive;
+    font-style:"text-align: justify;"
+}  
+h2{
+ color:white;
+    font-family: 'Bruno Ace SC', cursive;
+    font-style:"text-align: justify;"
+  
+}
+  h3{
+    color:white;
+  font-style:"text-align: justify;"
+  }
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #ff1e00;
+  color: white;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid rgb(0, 0, 0);
+  font-size: 100px;
+  background-color: rgb(0, 0, 0);
+  color: red;
+}
+
+table {
+  margin: auto auto;
+}
